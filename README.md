@@ -11,7 +11,7 @@
 
 ---
 
-# WordPress CMS Template for a Dental Clinic One-Pager
+# WordPress CMS template for a dental clinic Landing
 
 
 **Technical Details:**
